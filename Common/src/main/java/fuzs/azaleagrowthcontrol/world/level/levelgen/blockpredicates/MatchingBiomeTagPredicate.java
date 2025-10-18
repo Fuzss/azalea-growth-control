@@ -1,8 +1,8 @@
-package fuzs.azealeagrowthcontrol.world.level.levelgen.blockpredicates;
+package fuzs.azaleagrowthcontrol.world.level.levelgen.blockpredicates;
 
 import com.mojang.serialization.MapCodec;
 import com.mojang.serialization.codecs.RecordCodecBuilder;
-import fuzs.azealeagrowthcontrol.init.ModRegistry;
+import fuzs.azaleagrowthcontrol.init.ModRegistry;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.tags.TagKey;

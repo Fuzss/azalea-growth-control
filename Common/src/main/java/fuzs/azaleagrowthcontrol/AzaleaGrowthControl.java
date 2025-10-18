@@ -1,6 +1,6 @@
-package fuzs.azealeagrowthcontrol;
+package fuzs.azaleagrowthcontrol;
 
-import fuzs.azealeagrowthcontrol.init.ModRegistry;
+import fuzs.azaleagrowthcontrol.init.ModRegistry;
 import fuzs.puzzleslib.api.core.v1.ModConstructor;
 import fuzs.puzzleslib.api.core.v1.utility.ResourceLocationHelper;
 import net.minecraft.resources.ResourceLocation;
@@ -8,7 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class AzaleaGrowthControl implements ModConstructor {
-    public static final String MOD_ID = "azealeagrowthcontrol";
+    public static final String MOD_ID = "azaleagrowthcontrol";
     public static final String MOD_NAME = "Azalea Growth Control";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_NAME);
 

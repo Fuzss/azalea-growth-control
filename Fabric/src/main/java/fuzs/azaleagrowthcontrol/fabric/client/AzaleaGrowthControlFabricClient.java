@@ -1,7 +1,7 @@
-package fuzs.azealeagrowthcontrol.fabric.client;
+package fuzs.azaleagrowthcontrol.fabric.client;
 
-import fuzs.azealeagrowthcontrol.AzaleaGrowthControl;
-import fuzs.azealeagrowthcontrol.client.AzaleaGrowthControlClient;
+import fuzs.azaleagrowthcontrol.AzaleaGrowthControl;
+import fuzs.azaleagrowthcontrol.client.AzaleaGrowthControlClient;
 import fuzs.puzzleslib.api.client.core.v1.ClientModConstructor;
 import net.fabricmc.api.ClientModInitializer;
 

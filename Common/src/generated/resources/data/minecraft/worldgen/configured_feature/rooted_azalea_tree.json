@@ -31,8 +31,8 @@
           "tag": "minecraft:azalea_grows_on"
         },
         {
-          "type": "azealeagrowthcontrol:matching_biome_tag",
-          "tag": "azealeagrowthcontrol:grows_azalea_trees"
+          "type": "azaleagrowthcontrol:matching_biome_tag",
+          "tag": "azaleagrowthcontrol:grows_azalea_trees"
         }
       ]
     },

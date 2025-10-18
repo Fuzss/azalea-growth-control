@@ -1,6 +1,6 @@
-package fuzs.azealeagrowthcontrol.data;
+package fuzs.azaleagrowthcontrol.data;
 
-import fuzs.azealeagrowthcontrol.init.ModRegistry;
+import fuzs.azaleagrowthcontrol.init.ModRegistry;
 import fuzs.puzzleslib.api.data.v2.AbstractDatapackRegistriesProvider;
 import fuzs.puzzleslib.api.data.v2.core.DataProviderContext;
 import net.minecraft.core.registries.Registries;

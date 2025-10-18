@@ -1,4 +1,4 @@
-package fuzs.azealeagrowthcontrol.client;
+package fuzs.azaleagrowthcontrol.client;
 
 import fuzs.puzzleslib.api.client.core.v1.ClientModConstructor;
 

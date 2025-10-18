@@ -1,8 +1,8 @@
-package fuzs.azealeagrowthcontrol.neoforge;
+package fuzs.azaleagrowthcontrol.neoforge;
 
-import fuzs.azealeagrowthcontrol.AzaleaGrowthControl;
-import fuzs.azealeagrowthcontrol.data.ModBiomeTagsProvider;
-import fuzs.azealeagrowthcontrol.data.ModDatapackRegistriesProvider;
+import fuzs.azaleagrowthcontrol.AzaleaGrowthControl;
+import fuzs.azaleagrowthcontrol.data.ModBiomeTagsProvider;
+import fuzs.azaleagrowthcontrol.data.ModDatapackRegistriesProvider;
 import fuzs.puzzleslib.api.core.v1.ModConstructor;
 import fuzs.puzzleslib.neoforge.api.data.v2.core.DataProviderHelper;
 import net.neoforged.fml.common.Mod;

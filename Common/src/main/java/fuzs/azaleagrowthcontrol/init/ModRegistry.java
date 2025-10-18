@@ -1,7 +1,7 @@
-package fuzs.azealeagrowthcontrol.init;
+package fuzs.azaleagrowthcontrol.init;
 
-import fuzs.azealeagrowthcontrol.AzaleaGrowthControl;
-import fuzs.azealeagrowthcontrol.world.level.levelgen.blockpredicates.MatchingBiomeTagPredicate;
+import fuzs.azaleagrowthcontrol.AzaleaGrowthControl;
+import fuzs.azaleagrowthcontrol.world.level.levelgen.blockpredicates.MatchingBiomeTagPredicate;
 import fuzs.puzzleslib.api.init.v3.registry.RegistryManager;
 import fuzs.puzzleslib.api.init.v3.tags.TagFactory;
 import net.minecraft.core.Direction;

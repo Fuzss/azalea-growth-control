@@ -1,6 +1,6 @@
-package fuzs.azealeagrowthcontrol.fabric;
+package fuzs.azaleagrowthcontrol.fabric;
 
-import fuzs.azealeagrowthcontrol.AzaleaGrowthControl;
+import fuzs.azaleagrowthcontrol.AzaleaGrowthControl;
 import fuzs.puzzleslib.api.core.v1.ModConstructor;
 import net.fabricmc.api.ModInitializer;
 

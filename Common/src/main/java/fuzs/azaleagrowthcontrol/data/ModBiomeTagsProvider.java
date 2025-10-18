@@ -1,6 +1,6 @@
-package fuzs.azealeagrowthcontrol.data;
+package fuzs.azaleagrowthcontrol.data;
 
-import fuzs.azealeagrowthcontrol.init.ModRegistry;
+import fuzs.azaleagrowthcontrol.init.ModRegistry;
 import fuzs.puzzleslib.api.data.v2.core.DataProviderContext;
 import fuzs.puzzleslib.api.data.v2.tags.AbstractTagProvider;
 import fuzs.puzzleslib.api.init.v3.tags.TagFactory;

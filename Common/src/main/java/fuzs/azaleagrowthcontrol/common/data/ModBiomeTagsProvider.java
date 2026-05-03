@@ -1,9 +1,9 @@
-package fuzs.azaleagrowthcontrol.data;
+package fuzs.azaleagrowthcontrol.common.data;
 
-import fuzs.azaleagrowthcontrol.init.ModRegistry;
-import fuzs.puzzleslib.api.data.v2.core.DataProviderContext;
-import fuzs.puzzleslib.api.data.v2.tags.AbstractTagProvider;
-import fuzs.puzzleslib.api.init.v3.tags.TagFactory;
+import fuzs.azaleagrowthcontrol.common.init.ModRegistry;
+import fuzs.puzzleslib.common.api.data.v2.core.DataProviderContext;
+import fuzs.puzzleslib.common.api.data.v2.tags.AbstractTagProvider;
+import fuzs.puzzleslib.common.api.init.v3.tags.TagFactory;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.tags.BiomeTags;

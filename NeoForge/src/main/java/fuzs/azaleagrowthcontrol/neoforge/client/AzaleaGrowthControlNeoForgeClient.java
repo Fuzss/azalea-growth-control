@@ -1,8 +1,8 @@
 package fuzs.azaleagrowthcontrol.neoforge.client;
 
-import fuzs.azaleagrowthcontrol.AzaleaGrowthControl;
-import fuzs.azaleagrowthcontrol.client.AzaleaGrowthControlClient;
-import fuzs.puzzleslib.api.client.core.v1.ClientModConstructor;
+import fuzs.azaleagrowthcontrol.common.AzaleaGrowthControl;
+import fuzs.azaleagrowthcontrol.common.client.AzaleaGrowthControlClient;
+import fuzs.puzzleslib.common.api.client.core.v1.ClientModConstructor;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.fml.common.Mod;
 

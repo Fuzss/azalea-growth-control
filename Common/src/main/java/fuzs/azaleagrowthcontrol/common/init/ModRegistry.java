@@ -1,9 +1,9 @@
-package fuzs.azaleagrowthcontrol.init;
+package fuzs.azaleagrowthcontrol.common.init;
 
-import fuzs.azaleagrowthcontrol.AzaleaGrowthControl;
-import fuzs.azaleagrowthcontrol.world.level.levelgen.blockpredicates.MatchingBiomeTagPredicate;
-import fuzs.puzzleslib.api.init.v3.registry.RegistryManager;
-import fuzs.puzzleslib.api.init.v3.tags.TagFactory;
+import fuzs.azaleagrowthcontrol.common.AzaleaGrowthControl;
+import fuzs.azaleagrowthcontrol.common.world.level.levelgen.blockpredicates.MatchingBiomeTagPredicate;
+import fuzs.puzzleslib.common.api.init.v3.registry.RegistryManager;
+import fuzs.puzzleslib.common.api.init.v3.tags.TagFactory;
 import net.minecraft.core.Direction;
 import net.minecraft.core.Holder;
 import net.minecraft.core.RegistrySetBuilder;

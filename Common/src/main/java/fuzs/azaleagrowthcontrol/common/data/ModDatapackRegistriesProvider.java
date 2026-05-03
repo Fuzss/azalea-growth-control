@@ -1,8 +1,8 @@
-package fuzs.azaleagrowthcontrol.data;
+package fuzs.azaleagrowthcontrol.common.data;
 
-import fuzs.azaleagrowthcontrol.init.ModRegistry;
-import fuzs.puzzleslib.api.data.v2.AbstractDatapackRegistriesProvider;
-import fuzs.puzzleslib.api.data.v2.core.DataProviderContext;
+import fuzs.azaleagrowthcontrol.common.init.ModRegistry;
+import fuzs.puzzleslib.common.api.data.v2.AbstractDatapackRegistriesProvider;
+import fuzs.puzzleslib.common.api.data.v2.core.DataProviderContext;
 import net.minecraft.core.registries.Registries;
 
 public class ModDatapackRegistriesProvider extends AbstractDatapackRegistriesProvider {

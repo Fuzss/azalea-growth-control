@@ -1,8 +1,7 @@
-package fuzs.azaleagrowthcontrol;
+package fuzs.azaleagrowthcontrol.common;
 
-import fuzs.azaleagrowthcontrol.init.ModRegistry;
-import fuzs.puzzleslib.api.core.v1.ModConstructor;
-import net.minecraft.resources.Identifier;
+import fuzs.azaleagrowthcontrol.common.init.ModRegistry;
+import fuzs.puzzleslib.common.api.core.v1.ModConstructor;
 import net.minecraft.resources.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

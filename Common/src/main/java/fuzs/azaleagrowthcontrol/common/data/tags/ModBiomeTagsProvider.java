@@ -1,8 +1,8 @@
 package fuzs.azaleagrowthcontrol.common.data.tags;
 
 import fuzs.azaleagrowthcontrol.common.init.ModRegistry;
-import fuzs.puzzleslib.common.api.data.v2.core.DataProviderContext;
-import fuzs.puzzleslib.common.api.data.v2.tags.AbstractTagProvider;
+import fuzs.puzzleslib.common.api.data.v3.core.DataProviderContext;
+import fuzs.puzzleslib.common.api.data.v3.tags.AbstractTagsProvider;
 import fuzs.puzzleslib.common.api.init.v3.tags.TagFactory;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.core.registries.Registries;
@@ -10,7 +10,7 @@ import net.minecraft.tags.BiomeTags;
 import net.minecraft.tags.TagKey;
 import net.minecraft.world.level.biome.Biome;
 
-public class ModBiomeTagsProvider extends AbstractTagProvider<Biome> {
+public class ModBiomeTagsProvider extends AbstractTagsProvider<Biome> {
     public static final TagKey<Biome> IS_PLAINS = TagFactory.COMMON.registerBiomeTag("is_plains");
     public static final TagKey<Biome> IS_SNOWY_PLAINS = TagFactory.COMMON.registerBiomeTag("is_snowy_plains");
     public static final TagKey<Biome> IS_SWAMP = TagFactory.COMMON.registerBiomeTag("is_swamp");
